@@ -1,3 +1,4 @@
+# (start firewalld here)
 sudo firewall-cmd --set-default-zone=FedoraWorkstation
 sudo yum -y install tar
 curl https://install.meteor.com/ | sh

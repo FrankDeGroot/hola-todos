@@ -1,1 +1,1 @@
-rsync -a --exclude=.meteor /home/vagrant/hola-todos /vagrant
+rsync -a --exclude=.meteor/local /home/vagrant/hola-todos /vagrant
